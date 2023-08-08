@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and Matlab**
 
-- 👯 I’m looking to collaborate on **Matlab projects**
+- 👯 I’m looking to collaborate on **Python and Web Development Projects**
 
 - 📫 How to reach me **ghananjani1803@gmail.com**
 
