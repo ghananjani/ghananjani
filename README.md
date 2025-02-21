@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghananjani&label=Profile%20views&color=0e75b6&style=flat" alt="ghananjani" /> </p>
 
-- 👯 I’m looking to collaborate on **Python and Web Development Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
 
 - 📫 How to reach me **ghananjani1803@gmail.com**
 
