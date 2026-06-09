@@ -1,23 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ghananjani Saini</h1>
-<h3 align="center">An aspiring computer science student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+# Hi there, I'm Ghananjani Saini 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghananjani&label=Profile%20views&color=0e75b6&style=flat" alt="ghananjani" /> </p>
+I am an **AI Software Engineer** and **M.Tech Student in Computer Science & Engineering** specializing in building high-performance AI systems, large-scale LLM inference pipelines, and intelligent multi-agent workflows. Currently optimizing cutting-edge AI infrastructure at **Intel Technologies**.
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
+---
 
-- 📫 How to reach me **ghananjani1803@gmail.com**
+### 🚀 What I Do
+* **AI Infrastructure & Systems:** Optimizing large-scale LLM inference pipelines using `vLLM` and `TensorRT` on high-end GPU acceleration clusters.
+* **Deep Learning & GenAI:** Designing robust, scalable Retrieval-Augmented Generation (RAG) pipelines, Agentic workflows, and production-ready REST APIs.
+* **Medical & Financial AI:** Applied research in healthcare diagnostics (ECG interpretation, computer vision for medical imaging) and automated algorithmic trading.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 💼 Current Focus (Intel Technologies)
+As an **AI Software Engineer Intern** at **Intel**, I focus on maximizing throughput and minimizing latency for cutting-edge generative AI models. 
+
+* ⚡ **LLM Inference Optimization:** Designing parallel execution and batching strategies to scale inference on **Intel Gaudi2/Gaudi3** and **NVIDIA H100/H200 / RTX 6000** architectures.
+* 🤖 **Agentic Frameworks:** Building end-to-end autonomous, low-latency AI workflows for proprietary enterprise deployment.
+* 🔧 **Workload Orchestration:** Developing GPU-aware automation backends in Python for strict performance benchmarking and system acceleration.
+
+---
+
+### 🛠️ Tech Stack & Toolbelt
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, SQL, Shell Scripting |
+| **AI Systems & Hardware** | CUDA, vLLM, TensorRT, Intel Gaudi2/Gaudi3, NVIDIA H100/H200, RTX 6000 |
+| **Frameworks & Libraries** | PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy, Flask, Streamlit |
+| **Core Expertise** | Generative AI, RAG, LLM Inference Optimization, CNNs, GANs, Predictive Modeling |
+
+---
+
+### 🔬 Highlighted Projects
+
+* **DeepWiki & InferenceMAX Clone (Intel)**
+  * Built an enterprise-grade AI system clone tailored for intelligent semantic knowledge retrieval and documentation generation. 
+  * Optimised custom backend pipelines using Flask and interactive Streamlit dashboards for real-time model inference.
+  * *Tech:* Python, Flask, Streamlit, REST APIs, Inference Optimization, LLM Architecture.
+
+* **Algorithm Trading & Portfolio Optimization**
+  * Engineered a reinforcement learning system to automate stock trading strategies and asset allocation, achieving an **87% price prediction accuracy**.
+  * *Tech:* Deep Learning, PyPortfolioOpt, SciPy, Pandas, Seaborn.
+
+* **AI-Powered Object Detection Cane**
+  * Developed a hardware-software integrated IoT device for the visually impaired utilizing real-time computer vision and audio feedback (86.2% accuracy). 
+  * Authored a peer-reviewed research paper detailing the implementation with **IGI Global**.
+  * *Tech:* OpenCV, Python, IoT, Raspberry Pi, Image Processing.
+
+---
+
+### 📊 GitHub Stats & Metrics
+
 <p align="left">
-<a href="https://linkedin.com/in/ghananjanisaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghananjanisaini" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghananjani&show_icons=true&theme=tokyonight&count_private=true" alt="Ghananjani's GitHub Stats" height="180" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=ghananjani&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghananjani&show_icons=true&locale=en&layout=compact" alt="ghananjani" /></p>
+### 🌐 Certifications & Education
+* **M.Tech in Computer Science and Engineering** | Thapar Institute of Engineering and Technology *(CGPA: 8.76)*
+* **B.Tech in Computer Science and Engineering** | Vellore Institute of Technology *(CGPA: 8.86)*
+* **Certifications:** Salesforce Certified AI Specialist • Salesforce Certified AI Associate • GenAI on AWS (Udacity) • IBM Data Analyst • Big Data on AWS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghananjani&show_icons=true&locale=en" alt="ghananjani" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghananjani&" alt="ghananjani" /></p>
+### 💬 Connect with Me
+* 📧 **Email:** [ghananjani1803@gmail.com](mailto:ghananjani1803@gmail.com)
+* 📍 **Location:** Bangalore, India
+* ✍️ **Beyond Tech:** Apart from deep learning, I'm a published novelist (2 books!), a UI/UX design enthusiast, and an avid tennis player.
